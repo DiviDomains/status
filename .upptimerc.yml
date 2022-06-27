@@ -17,7 +17,7 @@ status-website:
   introTitle: "**Divi Status** is an uptime monitor and status page for Divi Project"
   introMessage: This is a status page which uses **real-time** data from our [GitHub repository](https://github.com/DiviDomains/status).
   navbar:
-  - title: Home
+    - title: Home
       href: https://www.divi.domains
     - title: Status
       href: /
