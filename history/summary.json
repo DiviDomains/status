@@ -5,18 +5,19 @@
     "icon": "https://favicons.githubusercontent.com/blocks.divi.domains",
     "slug": "blocks",
     "status": "down",
-    "uptime": "99.82%",
-    "uptimeDay": "88.15%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.82%",
+    "uptime": "98.46%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.68%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "98.46%",
     "time": 640,
-    "timeDay": 688,
-    "timeWeek": 691,
-    "timeMonth": 717,
+    "timeDay": 0,
+    "timeWeek": 685,
+    "timeMonth": 713,
     "timeYear": 640,
     "dailyMinutesDown": {
-      "2022-08-31": 171
+      "2022-09-01": 57,
+      "2022-08-31": 1386
     }
   },
   {
@@ -30,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 322,
-    "timeDay": 501,
-    "timeWeek": 362,
-    "timeMonth": 357,
-    "timeYear": 322,
+    "time": 321,
+    "timeDay": 260,
+    "timeWeek": 354,
+    "timeMonth": 354,
+    "timeYear": 321,
     "dailyMinutesDown": {}
   },
   {
@@ -43,18 +44,19 @@
     "icon": "https://favicons.githubusercontent.com/blocks-testnet.divi.domains",
     "slug": "testnet-blocks",
     "status": "down",
-    "uptime": "99.80%",
-    "uptimeDay": "88.17%",
-    "uptimeWeek": "98.31%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.80%",
+    "uptime": "98.36%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "85.69%",
+    "uptimeMonth": "96.71%",
+    "uptimeYear": "98.36%",
     "time": 602,
-    "timeDay": 580,
-    "timeWeek": 706,
-    "timeMonth": 690,
+    "timeDay": 0,
+    "timeWeek": 745,
+    "timeMonth": 686,
     "timeYear": 602,
     "dailyMinutesDown": {
-      "2022-08-31": 170
+      "2022-09-01": 57,
+      "2022-08-31": 1386
     }
   }
 ]
